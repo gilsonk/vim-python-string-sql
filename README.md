@@ -15,5 +15,6 @@ Plug 'gilsonk/vim-python-string-sql'
 
 # Usage
 Within a python docstring (with single or double quotes, f-string or not), enclave your SQL code within the tags **--begin-sql** and **--end-sql**:
+
 ![vim-python-string-sql](syntax_example.png)
 
